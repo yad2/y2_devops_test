@@ -88,6 +88,6 @@ Choose the approach that best fits your workflow needs.
 supporting information.
 2. Screenshots of the following:
     1. Running cluster instance in AWS console
-    2. Running pods
+    2. Running pods.
 
 
